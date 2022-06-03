@@ -5,7 +5,7 @@ The original website: [Yellow Pages](https://www.yellowpages.com/las-vegas-nv/re
 
 View the deployment at: [Yellow Pages API](https://hrushis-yellow-pages-api.herokuapp.com/)
 
-![IMG](https://github.com/Hrushi11/yellow-pages-api/blob/main/assets/first_pg.jpg?raw=true)
+![IMG](https://github.com/Hrushi11/Yellow-pages-api/blob/main/assets/first_pg_2.jpg?raw=true)
 
 ![IMG](https://github.com/Hrushi11/yellow-pages-api/blob/main/assets/second_pg.jpg?raw=true)
 
