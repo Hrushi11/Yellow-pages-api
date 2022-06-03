@@ -1,0 +1,280 @@
+1. Kung Fu Thai & Chinese Restaurant
+Name: Kung Fu Thai & Chinese Restaurant
+Phone number: (702) 247-4120
+Categories: ['Restaurants', 'Bartending Service', 'Caterers']
+Status: OPEN NOW
+Address: 3505 S Valley View BlvdLas Vegas, NV 89103
+Restaurant Website: http://www.kungfuplaza.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/kung-fu-thai-chinese-restaurant-488450704?lid=172172592
+-------------------------------------------------
+
+2. Treasures
+Name: Treasures
+Phone number: (702) 257-3030
+Categories: ['Restaurants', 'Seafood Restaurants', 'Night Clubs']
+Status: CLOSED NOW
+Address: 2801 Westwood DrLas Vegas, NV 89109
+Restaurant Website: http://treasureslasvegas.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/treasures-617081?lid=1002006242138
+-------------------------------------------------
+
+3. Montana Meat Co.
+Name: Montana Meat Co.
+Phone number: (702) 407-0362
+Categories: ['Restaurants', 'Steak Houses', 'Take Out Restaurants']
+Status: OPEN 24 Hours
+Address: 9135 S Durango DrLas Vegas, NV 89113
+Restaurant Website: http://www.montanameatco.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/montana-meat-co-11403187
+-------------------------------------------------
+
+4. The Peppermill Restaurant & Fireside Lounge
+Name: The Peppermill Restaurant & Fireside Lounge
+Phone number: (702) 735-4177
+Categories: ['Restaurants', 'Coffee Shops', 'Family Style Restaurants']
+Status: OPEN 24 Hours
+Address: 2985 Las Vegas Blvd SLas Vegas, NV 89109
+Restaurant Website: http://www.peppermilllasvegas.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/the-peppermill-restaurant-fireside-lounge-44609
+-------------------------------------------------
+
+5. Original Lindo Michoacan
+Name: Original Lindo Michoacan
+Phone number: (702) 735-6828
+Categories: ['Restaurants', 'Mexican Restaurants', 'Seafood Restaurants']
+Status: OPEN NOW
+Address: 2655 E Desert Inn RdLas Vegas, NV 89121
+Restaurant Website: http://www.lindomichoacan.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/original-lindo-michoacan-450865797
+-------------------------------------------------
+
+6. Smith & Wollensky
+Name: Smith & Wollensky
+Phone number: (702) 862-4100
+Categories: ['Restaurants', 'Steak Houses', 'Seafood Restaurants']
+Status: CLOSED NOW
+Address: 3767 Las Vegas Blvd SLas Vegas, NV 89109
+Restaurant Website: http://www.smithandwollensky.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/smith-wollensky-4362976
+-------------------------------------------------
+
+7. Grand Lux Cafe
+Name: Grand Lux Cafe
+Phone number: (702) 414-3888
+Categories: ['Restaurants', 'American Restaurants', 'Continental Restaurants']
+Status: OPEN 24 Hours
+Address: 3355 Las Vegas Blvd SLas Vegas, NV 89109
+Restaurant Website: http://locations.grandluxcafe.com/nv/las-vegas/1
+More info: https://www.yellowpages.com/las-vegas-nv/mip/grand-lux-cafe-473171855
+-------------------------------------------------
+
+8. Mr Lucky's 24/7
+Name: Mr Lucky's 24/7
+Phone number: (702) 693-5592
+Categories: ['Restaurants', 'Fine Dining Restaurants', 'American Restaurants']
+Status: OPEN 24 Hours
+Address: 4455 Paradise RdLas Vegas, NV 89169
+Restaurant Website: http://www.hardrockhotel.com/las-vegas-concerts/the-joint
+More info: https://www.yellowpages.com/las-vegas-nv/mip/mr-luckys-24-7-22349126
+-------------------------------------------------
+
+9. Angelina Pizzaria
+Name: Angelina Pizzaria
+Phone number: (702) 227-9500
+Categories: ['Restaurants', 'Pizza', 'Caterers']
+Status: OPEN NOW
+Address: 5750 S Decatur BlvdLas Vegas, NV 89118
+Restaurant Website: http://www.angelinaspizzaondecatur.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/angelina-pizzaria-459454070
+-------------------------------------------------
+
+10. Bob Taylor's Ranch House
+Name: Bob Taylor's Ranch House
+Phone number: (702) 645-1399
+Categories: ['Restaurants', 'American Restaurants', 'Steak Houses']
+Status: OPEN NOW
+Address: 6250 Rio Vista StLas Vegas, NV 89130
+Restaurant Website: http://www.bobtaylorsranchhouse.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/bob-taylors-ranch-house-17987474
+-------------------------------------------------
+
+11. Marche Bacchus
+Name: Marche Bacchus
+Phone number: (702) 804-8008
+Categories: ['Restaurants', 'French Restaurants', 'Bars']
+Status: OPEN NOW
+Address: 2620 Regatta Dr Ste 106Las Vegas, NV 89128
+Restaurant Website: http://www.marchebacchus.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/marche-bacchus-4916701
+-------------------------------------------------
+
+12. BJ's Restaurants
+Name: BJ's Restaurants
+Phone number: (702) 853-2300
+Categories: ['Restaurants', 'American Restaurants', 'Pizza']
+Status: OPEN NOW
+Address: 10840 W Charleston BlvdLas Vegas, NV 89135
+Restaurant Website: http://www.bjsrestaurants.com/locations/nv/summerlin
+More info: https://www.yellowpages.com/las-vegas-nv/mip/bjs-restaurants-9226498
+-------------------------------------------------
+
+14. Maggiano's Little Italy
+Name: Maggiano's Little Italy
+Phone number: (702) 732-2550
+Categories: ['Restaurants', 'Italian Restaurants', 'Take Out Restaurants']
+Status: OPEN NOW
+Address: 3200 Las Vegas Blvd SLas Vegas, NV 89109
+Restaurant Website: http://www.maggianos.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/maggianos-little-italy-467892288
+-------------------------------------------------
+
+15. Lazy Joe's Fish & Chips
+Name: Lazy Joe's Fish & Chips
+Phone number: (702) 489-6523
+Categories: ['Restaurants', 'Seafood Restaurants']
+Status: OPEN NOW
+Address: 7835 S Rainbow Blvd Suite #22Las Vegas, NV 89139
+Restaurant Website: http://www.lazyjoesfishandchips.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/lazy-joes-fish-chips-451485353
+-------------------------------------------------
+
+16. Leticia's Mexican Cocina
+Name: Leticia's Mexican Cocina
+Phone number: (702) 445-7722
+Categories: ['Restaurants', 'Latin American Restaurants', 'Mexican Restaurants']
+Status: OPEN NOW
+Address: 7585 Norman Rockwell LnLas Vegas, NV 89143
+Restaurant Website: http://www.leticiascocina.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/leticias-mexican-cocina-453741395
+-------------------------------------------------
+
+17. Chili's Grill & Bar
+Name: Chili's Grill & Bar
+Phone number: (702) 638-1482
+Categories: ['Restaurants', 'American Restaurants', 'Bars']
+Status: OPEN NOW
+Address: 2011 N Rainbow BlvdLas Vegas, NV 89108
+Restaurant Website: http://www.chilis.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/chilis-grill-bar-455481449
+-------------------------------------------------
+
+18. Steak-Out
+Name: Steak-Out
+Phone number: (702) 216-2700
+Categories: ['Restaurants', 'Steak Houses', 'Delivery Service']
+Status: OPEN NOW
+Address: 2400 N Buffalo DrLas Vegas, NV 89128
+Restaurant Website: http://www.steakout.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/steak-out-466224967
+-------------------------------------------------
+
+20. Smashburger
+Name: Smashburger
+Phone number: (702) 462-5500
+Categories: ['Restaurants', 'Hamburgers & Hot Dogs', 'American Restaurants']
+Status: OPEN NOW
+Address: 9101 W Sahara AveLas Vegas, NV 89117
+Restaurant Website: http://www.smashburger.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/smashburger-457092443
+-------------------------------------------------
+
+21. Fuddruckers
+Name: Fuddruckers
+Phone number: (702) 732-3833
+Categories: ['Restaurants', 'American Restaurants', 'Take Out Restaurants']
+Status: OPEN NOW
+Address: 4195 S Grand Canyon DrLas Vegas, NV 89147
+Restaurant Website: http://www.fuddruckers.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/fuddruckers-451413574
+-------------------------------------------------
+
+22. Morton's The Steakhouse
+Name: Morton's The Steakhouse
+Phone number: (702) 893-0703
+Categories: ['Restaurants', 'Steak Houses', 'American Restaurants']
+Status: CLOSED NOW
+Address: 400 E Flamingo RdLas Vegas, NV 89169
+Restaurant Website: http://www.mortons.com/lasvegas
+More info: https://www.yellowpages.com/las-vegas-nv/mip/mortons-the-steakhouse-4258733
+-------------------------------------------------
+
+23. Dean's Place
+Name: Dean's Place
+Phone number: (702) 387-8887
+Categories: ['Restaurants', 'Italian Restaurants', 'Caterers']
+Status: OPEN 24 Hours
+Address: 8355 Dean Martin DrLas Vegas, NV 89139
+Restaurant Website: http://www.deansplacelasvegas.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/deans-place-452560658
+-------------------------------------------------
+
+24. Bachi Burger
+Name: Bachi Burger
+Phone number: (702) 242-2244
+Categories: ['Restaurants', 'Hamburgers & Hot Dogs', 'Asian Restaurants']
+Status: OPEN NOW
+Address: 470 E Windmill LnLas Vegas, NV 89123
+Restaurant Website: http://www.bachiburger.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/bachi-burger-459710706
+-------------------------------------------------
+
+25. On The Border Mexican Grill & Cantina
+Name: On The Border Mexican Grill & Cantina
+Phone number: (702) 658-6682
+Categories: ['Restaurants', 'Mexican Restaurants', 'Take Out Restaurants']
+Status: OPEN NOW
+Address: 5630 Centennial Center BlvdLas Vegas, NV 89149
+Restaurant Website: http://www.ontheborder.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/on-the-border-mexican-grill-cantina-2827091
+-------------------------------------------------
+
+26. Marie Callender's
+Name: Marie Callender's
+Phone number: (702) 655-8200
+Categories: ['Restaurants', 'American Restaurants', 'Family Style Restaurants']
+Status: OPEN NOW
+Address: 3081 N Rainbow BlvdLas Vegas, NV 89108
+Restaurant Website: http://www.mariecallenders.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/marie-callenders-19333418
+-------------------------------------------------
+
+27. Soul Food Cafe
+Name: Soul Food Cafe
+Phone number: (702) 998-9780
+Categories: ['Restaurants', 'Soul Food Restaurants', 'American Restaurants']
+Status: OPEN NOW
+Address: 7320 S Rainbow BlvdLas Vegas, NV 89139
+Restaurant Website: http://www.soulfoodcafelv.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/soul-food-cafe-475013332
+-------------------------------------------------
+
+28. Capo's Restaurant and Speakeasy
+Name: Capo's Restaurant and Speakeasy
+Phone number: (702) 364-2276
+Categories: ['Restaurants', 'Italian Restaurants', 'Steak Houses']
+Status: OPEN NOW
+Address: 5675 W Sahara AveLas Vegas, NV 89146
+Restaurant Website: http://www.caposrestaurant.blogspot.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/capos-restaurant-and-speakeasy-7658045
+-------------------------------------------------
+
+29. Honey Salt
+Name: Honey Salt
+Phone number: (702) 445-6100
+Categories: ['Restaurants', 'American Restaurants', 'Caterers']
+Status: OPEN NOW
+Address: 1031 S Rampart BlvdLas Vegas, NV 89145
+Restaurant Website: http://www.honeysalt.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/honey-salt-474966643
+-------------------------------------------------
+
+30. Blueberry Hill Family Restaurant
+Name: Blueberry Hill Family Restaurant
+Phone number: (702) 877-8867
+Categories: ['Restaurants', 'Coffee Shops', 'Family Style Restaurants']
+Status: OPEN 24 Hours
+Address: 1280 S Decatur BlvdLas Vegas, NV 89102
+Restaurant Website: http://www.blueberryhillrestaurants.com
+More info: https://www.yellowpages.com/las-vegas-nv/mip/blueberry-hill-family-restaurant-10769439
+-------------------------------------------------
+
