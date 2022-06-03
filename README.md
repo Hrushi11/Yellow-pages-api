@@ -3,6 +3,8 @@ This repository contains the code for scraping the yellow pages website to get t
 
 The original website: [Yellow Pages](https://www.yellowpages.com/las-vegas-nv/restaurants) <br>
 
+View the deployment at: [Yellow Pages API](https://hrushis-yellow-pages-api.herokuapp.com/)
+
 ![IMG](https://github.com/Hrushi11/yellow-pages-api/blob/main/assets/first_pg.jpg?raw=true)
 
 ![IMG](https://github.com/Hrushi11/yellow-pages-api/blob/main/assets/second_pg.jpg?raw=true)
