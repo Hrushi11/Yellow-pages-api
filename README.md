@@ -1,4 +1,4 @@
-# Yellow Pages API
+# Yellow Pages API (Includes only on restaurants)
 This repository contains the code for scraping the yellow pages website to get the details of the restaurants and then turning all of the data into an api to be used later.
 
 The original website: [Yellow Pages](https://www.yellowpages.com/las-vegas-nv/restaurants) <br>
